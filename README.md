@@ -7,7 +7,7 @@ Fitur yang dikelola diantaranya ialah data produk, pelanggan, transaksi, laporan
 
 INSTALASI SISTEM
 <br>
-<li>Composer Install></li>
+<li>Composer Install</li>
 <li>Set .env</li>
 <li>Konfigurasi database dengan nama toko-carles</li>
 <li>Php artisan key:generaate</li>
